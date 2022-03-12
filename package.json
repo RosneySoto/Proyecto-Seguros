@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "the-brokers",
+  "version": "1.0.0",
+  "main": "db.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
